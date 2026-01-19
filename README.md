@@ -56,4 +56,3 @@ This project implements various Machine Learning algorithms to solve different p
 *   **Matplotlib & Seaborn**: Data visualization.
 
 ---
-*Created by Vibin D*
