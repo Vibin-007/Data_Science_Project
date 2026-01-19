@@ -22,7 +22,7 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import mean_squared_error, r2_score, silhouette_score, accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 
 # Page Configuration
-st.set_page_config(page_title="Data Science Project Hub", layout="wide")
+st.set_page_config(page_title="Data Science Project", layout="wide")
 
 # Title
 st.title("🤖 Data Science Model Explorer")
