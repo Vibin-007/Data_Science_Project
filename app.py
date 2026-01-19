@@ -38,9 +38,9 @@ app_mode = st.sidebar.selectbox("Choose a Project", [
 ])
 
 # File Paths
-REGRESSION_DATA_PATH = r"D:\College\Data Science\Projects\Exam_Score_Prediction.csv"
-CLASSIFICATION_DATA_PATH = r"D:\College\Data Science\Projects\Exam_Score_Prediction.csv"
-CLUSTERING_DATA_PATH = r"D:\College\Data Science\Projects\Country-data.csv"
+REGRESSION_DATA_PATH = "Exam_Score_Prediction.csv"
+CLASSIFICATION_DATA_PATH = "Exam_Score_Prediction.csv"
+CLUSTERING_DATA_PATH = "Country-data.csv"
 
 # --- HOME PAGE ---
 if app_mode == "Home":
