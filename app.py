@@ -47,7 +47,7 @@ if app_mode == "Home":
     # Fixed deprecation warning: use_column_width=True -> removed or handled differently if needed.
     # Using 'use_column_width="auto"' is often the modern equivalent, or just relying on default behavior.
     st.markdown("""
-    ### Welcome to the Project Hub!
+    ### Welcome to the Project !
     
     This application demonstrates:
     
