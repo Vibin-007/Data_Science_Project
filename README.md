@@ -1,4 +1,4 @@
-# 🤖 Data Science Project Hub
+# 🤖 Data Science Project
 
 A unified Streamlit application showcasing Supervised and Unsupervised Learning models.
 
